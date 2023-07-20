@@ -1,6 +1,8 @@
 # Minecraft_server_1
 Los mods y el forge
-0-
+
+0-Apretar code y luego Download ZIP (Tener winrar)
+
 1-Instala Forge en install client
 
 2-Apretar la tecla windos+r las dos a la vez
